@@ -1,0 +1,596 @@
+You are Claude Opus acting as:
+
+- Principal Software Architect
+- Senior UI/UX Designer
+- Senior Product Designer
+- Senior React Engineer
+- Senior Laravel Engineer
+- Pterodactyl Core Expert
+- Blueprint Framework Expert
+- AI Systems Engineer
+- DevOps Engineer
+
+PROJECT NAME
+
+NEXUS
+
+MISSION
+
+Create the most advanced, premium, intelligent, and visually stunning Pterodactyl experience ever built.
+
+NEXUS is NOT a standalone panel.
+
+NEXUS is NOT a SaaS replacement.
+
+NEXUS is NOT a fork of Pterodactyl.
+
+NEXUS consists of:
+
+1. A completely custom premium Pterodactyl Theme
+2. A powerful Blueprint Framework Extension
+3. An AI-powered server management ecosystem
+
+Everything must integrate directly into the existing Pterodactyl Panel.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+BLUEPRINT REQUIREMENTS
+
+Framework:
+Blueprint Framework
+
+Package Name:
+nexus.blueprint
+
+Installation:
+
+cd /var/www/pterodactyl
+
+yes | blueprint -i nexus
+
+yes | blueprint -r nexus
+
+Developer Information:
+
+Developer:
+Purab Singh
+
+Website:
+https://clutchbyte.in
+
+Discord:
+https://discord.gg/buDHaKxGq5
+
+Brand Assets:
+
+Primary Logo:
+https://cdn.discordapp.com/attachments/1344650373192880129/1515093051314405426/file_00000000bc9071fa9ac3d4c34ea82eac.png
+
+Developer Logo:
+https://cdn.discordapp.com/attachments/1344650373192880129/1515092980007174276/file_000000007fbc71f58a63ea569c6deb11.png
+
+Automatically integrate branding throughout the design system, metadata, extension configuration, support pages, documentation, and user interface.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+DESIGN PHILOSOPHY
+
+The theme must feel:
+
+- Ultra Premium
+- Enterprise Grade
+- Luxury
+- Modern
+- Intelligent
+- Futuristic
+- Beautiful
+- Clean
+- Sophisticated
+
+The moment users log in they should feel:
+
+"This is the best Pterodactyl experience I have ever seen."
+
+Design Inspiration:
+
+Linear
+Stripe Dashboard
+Vercel Dashboard
+Arc Browser
+Raycast
+Notion
+Apple Pro Software
+Modern SaaS Dashboards
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+AVOID
+
+- Cheap gaming UI
+- Overly flashy neon
+- Excessive glow
+- Cluttered interfaces
+- Outdated dashboard designs
+- Random colors
+- Unnecessary 3D everywhere
+- Performance-heavy effects
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+VISUAL SYSTEM
+
+Luxury Dark Theme
+
+Premium Typography
+
+Frosted Glass Panels
+
+Beautiful Gradients
+
+Subtle Depth
+
+Elegant Shadows
+
+Smooth Animations
+
+Micro Interactions
+
+Real-Time Visual Updates
+
+Professional Enterprise Feel
+
+Perfect Mobile Responsiveness
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+THEME FEATURES
+
+Custom Dashboard
+
+Custom Sidebar
+
+Custom Navigation
+
+Custom Server Cards
+
+Custom Analytics Pages
+
+Custom Monitoring Pages
+
+Custom AI Workspace
+
+Custom Settings Interface
+
+Custom Resource Monitoring
+
+Custom Notification Center
+
+Custom User Profile System
+
+Custom Welcome Experience
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+SERVER CARDS
+
+The default Pterodactyl cards must be completely redesigned.
+
+Each server card should display:
+
+- Server Status
+- Live TPS
+- Live RAM Usage
+- Live CPU Usage
+- Disk Usage
+- Player Count
+- AI Health Score
+- AI Recommendations
+- Quick Actions
+
+Cards should feel alive through real-time updates and elegant animations.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+AI SYSTEM
+
+Providers:
+
+Primary:
+OpenRouter
+
+Secondary:
+Groq
+
+Architecture must support future AI providers.
+
+AI Features:
+
+- AI Chat
+- AI Diagnostics
+- AI Log Analysis
+- AI Crash Analysis
+- AI Server Insights
+- AI Configuration Generator
+- AI Optimization Suggestions
+- AI Startup Optimization
+- AI AutoFix Planning
+- AI Maintenance Assistant
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+AI AUTONOMOUS FEATURES
+
+The AI should be capable of:
+
+Reading Logs
+
+Reading Crash Reports
+
+Analyzing Configurations
+
+Inspecting Files
+
+Managing Plugins
+
+Managing Modpacks
+
+Managing Worlds
+
+Managing Backups
+
+Managing Startup Variables
+
+Restarting Servers
+
+Stopping Servers
+
+Starting Servers
+
+Generating Repair Plans
+
+Applying Approved Fixes
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+SECURITY
+
+Before any destructive action:
+
+- Create Backup
+- Validate Permissions
+- Log Action
+- Create Rollback Point
+- Verify Safety
+
+All actions must pass through:
+
+Permission Layer
+
+Validation Layer
+
+Audit Layer
+
+Rollback Layer
+
+Execution Layer
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+MINECRAFT FEATURES
+
+Plugin Installer
+
+Plugin Updater
+
+Plugin Marketplace
+
+Plugin Search
+
+Modpack Installer
+
+CurseForge Integration
+
+Modrinth Integration
+
+FTB Integration
+
+Version Changer
+
+Startup Manager
+
+MOTD Creator
+
+Whitelist Manager
+
+Ban Manager
+
+Player Manager
+
+World Manager
+
+World Cloning
+
+World Import
+
+World Export
+
+Backup Manager
+
+Resource Pack Manager
+
+Performance Analyzer
+
+TPS Analyzer
+
+Crash Analyzer
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+ANALYTICS
+
+Live Metrics
+
+Resource Analytics
+
+Performance Reports
+
+Server Health Monitoring
+
+Historical Graphs
+
+AI Health Dashboard
+
+Network Monitoring
+
+Disk Monitoring
+
+Memory Monitoring
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+ARCHITECTURE
+
+Internally structure the project using modules:
+
+Core
+
+Theme
+
+AI
+
+Diagnostics
+
+AutoFix
+
+Plugins
+
+Modpacks
+
+Worlds
+
+Players
+
+Backups
+
+Monitoring
+
+Files
+
+Analytics
+
+Package everything as a single final Blueprint extension:
+
+nexus.blueprint
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+PHASE 1
+
+DO NOT WRITE IMPLEMENTATION CODE.
+
+Your first task is to act as a CTO and Product Architect.
+
+Design:
+
+1. Complete Product Architecture
+2. Theme Architecture
+3. Blueprint Architecture
+4. Folder Structure
+5. Database Design
+6. UI Design System
+7. AI Architecture
+8. Security Architecture
+9. Permissions System
+10. Dashboard Wireframes
+11. Navigation Structure
+12. Component Library
+13. Development Roadmap
+14. Risks
+15. Scalability Plan
+16. Recommended Build Order
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+BLUEPRINT ARCHITECTURE
+
+NEXUS MUST be built as a real Blueprint Framework Extension compatible with modern Pterodactyl Panel versions.
+
+The architecture must follow Blueprint Framework best practices and commercial-grade standards.
+
+Design the complete Blueprint architecture including:
+
+Extension Metadata
+
+- Extension Name
+- Extension Identifier
+- Extension Versioning
+- Extension Manifest
+- Dependency Management
+- Compatibility Validation
+- Update System
+- Licensing Structure
+
+Blueprint Integration
+
+- Frontend Injection Strategy
+- Backend Integration Strategy
+- Navigation Injection
+- Route Registration
+- API Registration
+- Middleware Registration
+- Asset Registration
+- Component Registration
+- Service Registration
+
+Extension Structure
+
+Design the exact file and folder layout required for:
+
+nexus.blueprint
+
+Including:
+
+- Blueprint Manifest
+- Install Scripts
+- Upgrade Scripts
+- Rollback Scripts
+- Configuration Files
+- Frontend Assets
+- Backend Services
+- React Components
+- Laravel Services
+- Controllers
+- Middleware
+- APIs
+- Database Migrations
+- Theme Assets
+- AI Services
+
+Blueprint Module Layout
+
+Internally organize:
+
+Nexus Core
+Nexus Theme
+Nexus AI
+Nexus Diagnostics
+Nexus AutoFix
+Nexus Plugins
+Nexus Modpacks
+Nexus Worlds
+Nexus Players
+Nexus Monitoring
+Nexus Files
+Nexus Analytics
+
+All modules must function as one Blueprint extension package.
+
+Installation Experience
+
+Design a professional installation workflow:
+
+cd /var/www/pterodactyl
+
+yes | blueprint -i nexus
+
+yes | blueprint -r nexus
+
+The installation process should:
+
+- Validate Requirements
+- Register Services
+- Register Navigation
+- Register Theme Assets
+- Register AI Services
+- Create Database Tables
+- Create Configuration Files
+- Configure Permissions
+- Verify Installation
+
+Upgrade System
+
+Design:
+
+- Version Upgrades
+- Database Migration Strategy
+- Data Preservation
+- Rollback Support
+- Safe Upgrade Process
+
+Permissions Architecture
+
+Blueprint permissions should include:
+
+AI Access
+
+AI Diagnostics
+
+AI AutoFix
+
+Plugin Management
+
+Modpack Management
+
+World Management
+
+Backup Management
+
+Monitoring Access
+
+Analytics Access
+
+Admin Controls
+
+Theme Controls
+
+Developer Controls
+
+API Architecture
+
+Design Blueprint APIs for:
+
+AI Services
+
+Diagnostics
+
+AutoFix
+
+Plugins
+
+Modpacks
+
+Worlds
+
+Players
+
+Monitoring
+
+Analytics
+
+Files
+
+Backups
+
+Performance Requirements
+
+The Blueprint extension must be:
+
+- Production Ready
+- Scalable
+- Modular
+- Maintainable
+- Mobile Friendly
+- Optimized
+- Enterprise Grade
+
+The final deliverable must be a single installable package:
+
+nexus.blueprint
+
+that feels like a premium commercial product rather than a collection of addons.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+
+The result should be a commercial-grade product capable of becoming the most advanced premium Pterodactyl Blueprint ecosystem available.
